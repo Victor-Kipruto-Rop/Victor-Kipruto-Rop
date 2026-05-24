@@ -78,40 +78,13 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
-#### 🏦 FinTech Community Savings Wallet — Real-Time Data Platform
-> **Stack:** Python · Apache Kafka · PostgreSQL · Apache Airflow · dbt · Docker · Grafana
-
-Built the full data backend for a community savings wallet platform. Designed an event-driven transaction ingestion layer using Kafka, a double-entry ledger schema in PostgreSQL, and dbt transformation models for member balance aggregates and liquidity forecasting. Airflow orchestrates nightly reconciliation jobs. Grafana dashboards surface real-time transaction throughput, wallet health, and pipeline SLA metrics.
-
----
-
-#### 📡 Real-Time Transaction Streaming Pipeline
-> **Stack:** Apache Kafka · Python · PostgreSQL · Grafana · Docker
-
-High-throughput streaming system that ingests financial event streams, validates schema integrity at the consumer level, and writes to partitioned PostgreSQL tables. Designed for low-latency reads and horizontal scaling. Includes dead-letter queue handling for malformed events and live monitoring dashboards.
-
----
-
-#### 🔄 ELT Data Warehouse with dbt & Airflow
-> **Stack:** Apache Airflow · dbt · PostgreSQL · Python · Docker
-
-Modular ELT pipeline that extracts data from RESTful APIs and webhook sources, loads raw data into a staging schema, and runs dbt transformations to build analytical layers. Includes dbt tests for null checks, referential integrity, and business-logic assertions. Airflow manages scheduling, retries, and alerting on SLA breaches.
-
----
-
-#### 📊 FinTech Analytics Dashboard — Streamlit + Metabase
-> **Stack:** Streamlit · Metabase · PostgreSQL · Python
-
-Interactive reporting layer on top of the data warehouse. Streamlit app exposes custom cohort analysis and liquidity forecasting views; Metabase provides self-service querying for non-technical stakeholders. Both connect to the same dbt-modeled data layer.
-
----
-
-#### 🏢 Distributed Cassandra Schema — High Write Workloads
-> **Stack:** Apache Cassandra · Python · Docker
-
-Designed partition key and clustering column structures for write-heavy financial time-series data. Optimized for append patterns and time-range queries. Benchmarked against PostgreSQL for throughput at scale.
+<p align="center">
+  <a href="https://github.com/kipruto45?tab=repositories">
+    👉 View all my projects on GitHub
+  </a>
+</p>
 
 ---
 
