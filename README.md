@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Victor 👋</h1>
-<h3 align="center">Data Engineer | Data Science Student | AI & Analytics Enthusiast</h3>
+<h3 align="center">Data Engineer | Data Science Student | FinTech Infrastructure Builder</h3>
 
 <p align="center">
-  Building scalable data pipelines, analytics-ready systems, and distributed data platforms.
+  Designing high-throughput data pipelines, real-time transaction streaming architectures, and distributed data systems.
 </p>
 
 <p align="center">
@@ -11,36 +11,37 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Languages & Frameworks</strong><br />
+      <strong>Core Languages & Frameworks</strong><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="50%">
-      <strong>Databases & Streaming</strong><br />
+      <strong>Data Storage & Streaming</strong><br />
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Infrastructure & DevOps</strong><br />
+      <strong>Cloud Infrastructure & DevOps</strong><br />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
     <td valign="top" width="50%">
-      <strong>Monitoring & Tools</strong><br />
+      <strong>Observability & Ecosystem</strong><br />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
@@ -48,35 +49,34 @@
 
 ---
 
-### ⚡ Core Engineering Focus
+### ⚡ Featured Engineering Domain
 
-- **Data Pipelines:** Designing real-time transaction streaming architectures and event-driven ETL/ELT pipelines.
-- **Distributed Databases:** Working with NoSQL infrastructure (Apache Cassandra) and relational performance tuning (PostgreSQL).
-- **FinTech Systems:** Architecting secure ledger databases, wallet APIs, and data infrastructure for financial applications.
-- **Data Modeling:** Structuring analytics-ready systems using star/snowflake schemas and performance-optimized queries.
-- **DevOps for Data:** Containerizing workflows with Docker and managing deployment environments on AWS and cloud platforms.
+* **Real-Time Data Pipelines:** Building high-throughput transaction streaming systems, event-driven data ingestion, and liquidity forecasting modules.
+* **Distributed & Relational Databases:** Designing primary key and clustering column structures for heavy write patterns in **Apache Cassandra** alongside performance-tuned **PostgreSQL** relational schemas.
+* **FinTech & Wallet Architecture:** Developing application logic and ledger state infrastructure for secure community savings (`Chama`) wallet management platforms.
+* **Analytics & Observability:** Implementing data tracking layers, logging errors via **Sentry**, and capturing pipeline infrastructure metrics with **Grafana**.
+* **Containerized Workflows:** Structuring isolated multi-container data services using **Docker** for local development replication and staging environments.
 
 ---
 
 ### 📊 GitHub Metrics & Insights
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top">
+    <td align="center" valign="top" width="100%">
       <img src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" height="195px" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kipruto45&layout=compact&langs_count=6&cache_seconds=86400&v=2" alt="Top Languages" height="195px" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="GitHub Streak" width="100%" />
+    <td align="center" valign="top" width="100%">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="GitHub Streak" width="85%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
+  <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kipruto45&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
