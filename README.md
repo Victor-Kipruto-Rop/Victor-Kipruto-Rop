@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Victor 👋</h1>
-<h3 align="center">Data Engineer | Data Science Student | FinTech Infrastructure Builder</h3>
+<h3 align="center">Data Engineer | FinTech Infrastructure Builder | Pipeline Architect</h3>
 
 <p align="center">
   Designing high-throughput data pipelines, real-time transaction streaming architectures, and distributed data platforms.
@@ -16,59 +16,102 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Languages & Distributed Computing</strong><br />
+      <strong>Languages & Frameworks</strong><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="50%">
       <strong>Orchestration & Transformation</strong><br />
       <img src="https://img.shields.io/badge/Apache_Airflow-017CE1?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
       <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Data Storage & Warehousing</strong><br />
-      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+      <strong>Databases & Storage</strong><br />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-      <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logoColor=white" alt="Delta Lake" />
     </td>
     <td valign="top" width="50%">
-      <strong>Infrastructure, Quality & Analytics</strong><br />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <strong>Analytics & Observability</strong><br />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Infrastructure & DevOps</strong><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Data Quality & Governance</strong><br />
+      <img src="https://img.shields.io/badge/Great_Expectations-FF6B35?style=flat-square&logoColor=white" alt="Great Expectations" />
+      <img src="https://img.shields.io/badge/dbt_Tests-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Tests" />
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white" alt="Pydantic" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ Data Engineering Skills & Competencies
+### ⚙️ Core Competencies
 
-* ⚡ **ETL/ELT Pipeline Development:** Architecting batch and event-driven data processing workflows using **Python**, **PySpark**, and robust SQL infrastructure.
-* 📥 **Data Ingestion & Event Streaming:** Capturing webhooks, decoupling microservices, and ingesting high-throughput streaming transaction records via distributed message brokers (**Apache Kafka**, **RabbitMQ**).
-* 🔄 **Data Transformation & Operational Analytics:** Writing clean analytical models, versioning models with **dbt**, and managing dimensional data warehouses (**Snowflake**, **BigQuery**, **PostgreSQL**).
-* 🧪 **Data Quality & Validation:** Guaranteeing data integrity and preventing downstream breaking changes using programmable assertion frameworks like **Great Expectations**.
-* 🤖 **Workflow Orchestration:** Developing, scheduling, and error-handling complex dependency graphs (DAGs) and pipeline backfills with **Apache Airflow**.
-* 🏦 **Financial Data Systems:** Building secure ledgers, processing complex financial APIs, handling structural state updates, and optimizing schemas for real-time metrics.
-* 🏢 **Observability & Infrastructure:** Monitoring infrastructure logs using **Sentry** and **Grafana**, and keeping development fully continuous and portable through **Docker** and **Linux** environments.
-* 📊 **Dashboard & Semantic Presentation:** Building responsive self-service business intelligence reporting spaces through **Metabase** and specialized analytics applications via **Streamlit**.
+- **ETL/ELT Pipeline Development** — Scalable, reliable workflows for structured and semi-structured data lakes and warehouses.
+- **Real-Time Streaming** — Event-driven ingestion with Apache Kafka; building high-throughput pipelines for transaction and telemetry data.
+- **Data Transformation & Modeling** — dbt-based star schema design, incremental models, and data quality testing layers.
+- **Workflow Orchestration** — Complex DAG authoring, dependency management, SLA monitoring, and backfill handling with Apache Airflow.
+- **Financial Data Processing** — Ledger design, safe transaction state management, and high-precision liquidity forecasting aggregates.
+- **Data Warehousing & Lakehouse** — PostgreSQL, Cassandra, and Delta Lake architectures optimized for read/write query patterns at scale.
+- **Observability & Reliability** — End-to-end pipeline monitoring with Grafana, Sentry alerting, connection pool health, and data quality gates.
+- **Containerized Deployments** — Multi-container Docker workflows for local production parity and cloud-ready deployments.
 
 ---
 
-### ⚡ Featured Engineering Focus
+### 🚀 Featured Projects
 
-- **Real-Time Data Pipelines:** Building high-throughput transaction streaming systems, event-driven data ingestion, and liquidity forecasting modules.
-- **Distributed Databases:** Designing primary key and clustering column structures for heavy write patterns in Apache Cassandra alongside performance-tuned PostgreSQL schemas.
-- **FinTech Architecture:** Developing application logic, ledger configurations, and safe transaction state infrastructure for secure community savings wallet management platforms.
-- **Containerized Workflows:** Structuring isolated multi-container data services using Docker for local production replication and seamless cloud deployments.
+#### 🏦 FinTech Community Savings Wallet — Real-Time Data Platform
+> **Stack:** Python · Apache Kafka · PostgreSQL · Apache Airflow · dbt · Docker · Grafana
+
+Built the full data backend for a community savings wallet platform. Designed an event-driven transaction ingestion layer using Kafka, a double-entry ledger schema in PostgreSQL, and dbt transformation models for member balance aggregates and liquidity forecasting. Airflow orchestrates nightly reconciliation jobs. Grafana dashboards surface real-time transaction throughput, wallet health, and pipeline SLA metrics.
+
+---
+
+#### 📡 Real-Time Transaction Streaming Pipeline
+> **Stack:** Apache Kafka · Python · PostgreSQL · Grafana · Docker
+
+High-throughput streaming system that ingests financial event streams, validates schema integrity at the consumer level, and writes to partitioned PostgreSQL tables. Designed for low-latency reads and horizontal scaling. Includes dead-letter queue handling for malformed events and live monitoring dashboards.
+
+---
+
+#### 🔄 ELT Data Warehouse with dbt & Airflow
+> **Stack:** Apache Airflow · dbt · PostgreSQL · Python · Docker
+
+Modular ELT pipeline that extracts data from RESTful APIs and webhook sources, loads raw data into a staging schema, and runs dbt transformations to build analytical layers. Includes dbt tests for null checks, referential integrity, and business-logic assertions. Airflow manages scheduling, retries, and alerting on SLA breaches.
+
+---
+
+#### 📊 FinTech Analytics Dashboard — Streamlit + Metabase
+> **Stack:** Streamlit · Metabase · PostgreSQL · Python
+
+Interactive reporting layer on top of the data warehouse. Streamlit app exposes custom cohort analysis and liquidity forecasting views; Metabase provides self-service querying for non-technical stakeholders. Both connect to the same dbt-modeled data layer.
+
+---
+
+#### 🏢 Distributed Cassandra Schema — High Write Workloads
+> **Stack:** Apache Cassandra · Python · Docker
+
+Designed partition key and clustering column structures for write-heavy financial time-series data. Optimized for append patterns and time-range queries. Benchmarked against PostgreSQL for throughput at scale.
 
 ---
 
