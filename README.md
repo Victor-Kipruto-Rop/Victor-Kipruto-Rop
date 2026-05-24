@@ -97,6 +97,13 @@
   <a href="https://portfolio-rop.netlify.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="28" style="margin-left: 5px;" />
   </a>
+  <a href="mailto:kiprutovictor39@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:kiprutovictor39@gmail.com">kiprutovictor39@gmail.com</a> &nbsp;|&nbsp; 📞 <a href="tel:+254723484552">+254 723 484 552</a>
 </p>
 
 ---
