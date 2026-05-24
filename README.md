@@ -16,34 +16,34 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Languages & Frameworks</strong><br />
+      <strong>Languages & Distributed Computing</strong><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="50%">
       <strong>Orchestration & Transformation</strong><br />
       <img src="https://img.shields.io/badge/Apache_Airflow-017CE1?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
       <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Analytics & Dashboards</strong><br />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+      <strong>Data Storage & Warehousing</strong><br />
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+      <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
     </td>
     <td valign="top" width="50%">
-      <strong>Infrastructure & DevOps</strong><br />
+      <strong>Infrastructure, Quality & Analytics</strong><br />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
     </td>
   </tr>
 </table>
@@ -52,14 +52,14 @@
 
 ### ⚙️ Data Engineering Skills & Competencies
 
-* ⚡ **ETL/ELT Pipeline Development:** Designing and deploying scalable, reliable workflows for structured and semi-structured data lakes and warehouses.
-* 📥 **Data Ingestion & API Integration:** Extracting data from RESTful web APIs, real-time transaction webhooks, and event streams into centralized storage systems.
-* 🔄 **Data Transformation & Cleaning:** Utilizing **dbt** and optimized SQL queries to clean, structure, validate, and build analytical layers (star schemas).
-* 🤖 **Workflow Automation:** Orchestrating complex pipeline tasks, handling dependency graphs, and managing backfills using **Apache Airflow**.
-* 🏦 **Financial Data Processing:** Architecting robust ledgers, handling transaction states safely, and generating aggregates for high-precision liquidity forecasting modules.
-* 🏢 **Data Warehousing:** Designing database architectures using **PostgreSQL**, MySQL, and distributed **Apache Cassandra** databases optimized for query patterns.
-* 📊 **Pipeline Monitoring & Observability:** Implementing error monitoring alerts via **Sentry**, database connection health pooling, and live infrastructure tracking using **Grafana**.
-* 📈 **Dashboard Development:** Transforming relational data models into fast interactive web reports using **Streamlit** and self-service **Metabase** solutions.
+* ⚡ **ETL/ELT Pipeline Development:** Architecting batch and event-driven data processing workflows using **Python**, **PySpark**, and robust SQL infrastructure.
+* 📥 **Data Ingestion & Event Streaming:** Capturing webhooks, decoupling microservices, and ingesting high-throughput streaming transaction records via distributed message brokers (**Apache Kafka**, **RabbitMQ**).
+* 🔄 **Data Transformation & Operational Analytics:** Writing clean analytical models, versioning models with **dbt**, and managing dimensional data warehouses (**Snowflake**, **BigQuery**, **PostgreSQL**).
+* 🧪 **Data Quality & Validation:** Guaranteeing data integrity and preventing downstream breaking changes using programmable assertion frameworks like **Great Expectations**.
+* 🤖 **Workflow Orchestration:** Developing, scheduling, and error-handling complex dependency graphs (DAGs) and pipeline backfills with **Apache Airflow**.
+* 🏦 **Financial Data Systems:** Building secure ledgers, processing complex financial APIs, handling structural state updates, and optimizing schemas for real-time metrics.
+* 🏢 **Observability & Infrastructure:** Monitoring infrastructure logs using **Sentry** and **Grafana**, and keeping development fully continuous and portable through **Docker** and **Linux** environments.
+* 📊 **Dashboard & Semantic Presentation:** Building responsive self-service business intelligence reporting spaces through **Metabase** and specialized analytics applications via **Streamlit**.
 
 ---
 
