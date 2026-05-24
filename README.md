@@ -1,105 +1,98 @@
+<h1 align="center">Hi there, I'm Victor 👋</h1>
 <h3 align="center">Data Engineer | Data Science Student | AI & Analytics Enthusiast</h3>
 
 <p align="center">
-Building scalable data pipelines, analytics-ready systems, and data-driven platforms.
+  Building scalable data pipelines, analytics-ready systems, and distributed data platforms.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kipruto45&label=Profile%20views&color=0e75b6&style=flat" alt="kipruto45" />
-</p>
-
-<!-- GitHub Stats with Rank (FIXED & STABLE) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2"
-    alt="GitHub Stats with Rank"
-  />
+  <img src="https://komarev.com/ghpvc/?username=kipruto45&label=Profile%20views&color=0e75b6&style=flat-square" alt="kipruto45" />
 </p>
 
-<!-- GitHub Streak (unchanged, stable) -->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & Frameworks</strong><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Databases & Streaming</strong><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Infrastructure & DevOps</strong><br />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Monitoring & Tools</strong><br />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Core Engineering Focus
+
+- **Data Pipelines:** Designing real-time transaction streaming architectures and event-driven ETL/ELT pipelines.
+- **Distributed Databases:** Working with NoSQL infrastructure (Apache Cassandra) and relational performance tuning (PostgreSQL).
+- **FinTech Systems:** Architecting secure ledger databases, wallet APIs, and data infrastructure for financial applications.
+- **Data Modeling:** Structuring analytics-ready systems using star/snowflake schemas and performance-optimized queries.
+- **DevOps for Data:** Containerizing workflows with Docker and managing deployment environments on AWS and cloud platforms.
+
+---
+
+### 📊 GitHub Metrics & Insights
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" height="195px" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kipruto45&layout=compact&langs_count=6&cache_seconds=86400&v=2" alt="Top Languages" height="195px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- Trophies -->
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=kipruto45&margin-w=15&margin-h=15"
-      alt="kipruto45"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=kipruto45&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/victor-rop-4920b4399" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/victorkipruto" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="Kaggle"
-      height="30"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
   <a href="https://portfolio-rop.netlify.app/" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
-      alt="Portfolio"
-      height="30"
-      width="30"
-    />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="28" style="margin-left: 5px;" />
   </a>
-</p>
-
-<h3 align="left">Languages & Tools (Data Engineering Focus):</h3>
-
-<p align="left">
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-  <!-- Data & Backend -->
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-  <!-- DevOps & OS -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-<h3 align="left">What I Work On:</h3>
-
-<ul>
-  <li>End-to-end ETL & ELT pipelines</li>
-  <li>API-based data ingestion</li>
-  <li>Analytics data modeling (star schemas)</li>
-  <li>PostgreSQL & SQL performance optimization</li>
-  <li>Dockerized data systems</li>
-  <li>AI & data research support</li>
-</ul>
-
-<!-- Top Languages (Python-focused) -->
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kipruto45&layout=compact&langs_count=1&cache_seconds=86400&v=2"
-    alt="Top Languages"
-  />
 </p>
