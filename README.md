@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kipruto45&label=Profile%20views&color=0e75b6&style=flat-square" alt="kipruto45" />
+  <img src="https://komarev.com/ghpvc/?username=Victor-Kipruto-Rop&label=Profile%20views&color=0e75b6&style=flat-square" alt="Victor-Kipruto-Rop" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/kipruto45?tab=repositories">
+  <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">
     👉 View all my projects on GitHub
   </a>
 </p>
@@ -112,20 +112,20 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" height="195px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Victor-Kipruto-Rop&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" height="195px" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="100%">
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="GitHub Streak" width="85%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Kipruto-Rop" alt="GitHub Streak" width="85%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
   <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kipruto45&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <a href="https://github.com/Victor-Kipruto-Rop">
+    <img src="https://github-profile-trophy.vercel.app/?username=Victor-Kipruto-Rop&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
 </p>
