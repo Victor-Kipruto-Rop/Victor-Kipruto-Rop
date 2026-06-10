@@ -105,27 +105,3 @@
 <p align="center">
   📧 <a href="mailto:kiprutovictor39@gmail.com">kiprutovictor39@gmail.com</a> &nbsp;|&nbsp; 📞 <a href="tel:+254723484552">+254 723 484 552</a>
 </p>
-
----
-### 📊 GitHub Metrics & Insights
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Victor-Kipruto-Rop&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" height="195px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="100%">
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Kipruto-Rop" alt="GitHub Streak" width="85%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <br />
-  <a href="https://github.com/Victor-Kipruto-Rop">
-    <img src="https://github-profile-trophy.vercel.app/?username=Victor-Kipruto-Rop&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-  </a>
-</p>
