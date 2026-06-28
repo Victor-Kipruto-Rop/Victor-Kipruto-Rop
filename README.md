@@ -77,6 +77,48 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Kipruto-Rop&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Kipruto-Rop&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Victor's GitHub Stats" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Kipruto-Rop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Victor-Kipruto-Rop&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🗂️ Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Victor-Kipruto-Rop&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Kipruto-Rop&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
 ### 🚀 My Projects
 
 <p align="center">
@@ -86,6 +128,7 @@
 </p>
 
 ---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-rop-4920b4399" target="_blank">
