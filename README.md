@@ -77,10 +77,22 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Kipruto-Rop&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=cloud-etl-pipeline&theme=github_dark&hide_border=true&show_owner=false" alt="cloud-etl-pipeline" />
+  </a>
+  <a href="https://github.com/Victor-Kipruto-Rop/Real_Time_Transaction_Streaming-MPESA-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Real_Time_Transaction_Streaming-MPESA-&theme=github_dark&hide_border=true&show_owner=false" alt="Real_Time_Transaction_Streaming-MPESA-" />
+  </a>
+  <a href="https://github.com/Victor-Kipruto-Rop/Data-Enginerring-full-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Data-Enginerring-full-project&theme=github_dark&hide_border=true&show_owner=false" alt="Data-Enginerring-full-project" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">👉 View all repositories</a>
 </p>
 
 ---
@@ -103,14 +115,6 @@
 
 ---
 
-### 🗂️ Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Victor-Kipruto-Rop&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</p>
-
----
-
 ### 📈 Contribution Activity
 
 <p align="center">
@@ -119,12 +123,22 @@
 
 ---
 
-### 🚀 My Projects
+### 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">
-    👉 View all my projects on GitHub
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Kipruto-Rop/Victor-Kipruto-Rop/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Kipruto-Rop/Victor-Kipruto-Rop/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Victor-Kipruto-Rop/Victor-Kipruto-Rop/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🗂️ Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Victor-Kipruto-Rop&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </p>
 
 ---
@@ -137,7 +151,7 @@
   <a href="https://www.kaggle.com/victorkipruto" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://portfolio-rop.netlify.app/" target="_blank">
+  <a href="https://victor-kipruto-rop.github.io/victor-resum-web/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="28" style="margin-left: 5px;" />
   </a>
   <a href="mailto:kiprutovictor39@gmail.com" target="_blank">
