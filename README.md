@@ -77,24 +77,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=cloud-etl-pipeline&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/Real_Time_Transaction_Streaming-MPESA-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Real_Time_Transaction_Streaming-MPESA-&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/Data-Enginerring-full-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Data-Enginerring-full-project&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">👉 View all repositories</a>
-</p>
-
 ###  Contribution Streak
 
 <p align="center">
