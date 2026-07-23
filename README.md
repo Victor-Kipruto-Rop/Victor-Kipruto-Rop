@@ -95,19 +95,7 @@
   <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">👉 View all repositories</a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Kipruto-Rop&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Victor's GitHub Stats" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Kipruto-Rop&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
----
-
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Victor-Kipruto-Rop&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
@@ -115,7 +103,7 @@
 
 ---
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Kipruto-Rop&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
@@ -123,7 +111,7 @@
 
 ---
 
-### 🗂️ Top Contributed Repos
+### Top Contributed Repos
 
 <p align="center">
   <a href="https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline">
