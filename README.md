@@ -91,30 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Kipruto-Rop&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
----
-
-### Top Contributed Repos
-
-<p align="center">
-  <a href="https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=cloud-etl-pipeline&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/mpesa_safaricom-pipeline-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=mpesa_safaricom-pipeline-&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/streaming-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=streaming-pipeline&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/Data-Enginerring-full-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Data-Enginerring-full-project&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Victor-Kipruto-Rop/Real_Time_Transaction_Streaming-MPESA-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victor-Kipruto-Rop&repo=Real_Time_Transaction_Streaming-MPESA-&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-rop-4920b4399" target="_blank">
