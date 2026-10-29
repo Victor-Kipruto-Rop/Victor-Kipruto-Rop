@@ -2,11 +2,17 @@
 <h3 align="center">Data Engineer | FinTech Infrastructure Builder | Pipeline Architect</h3>
 
 <p align="center">
-  Designing high-throughput data pipelines, real-time transaction streaming architectures, and distributed data platforms.
+  Designing reliable data pipelines, real-time transaction streaming architectures, and data platforms.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-Kipruto-Rop&label=Profile%20views&color=0e75b6&style=flat-square" alt="Victor-Kipruto-Rop" />
+  <a href="https://github.com/Victor-Kipruto-Rop?tab=achievements">View GitHub achievements</a> ·
+  <a href="https://victorkipruto.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/victor-kipruto-rop">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-Kipruto-Rop&label=Profile%20views&color=2ECC87&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -22,7 +28,7 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
     </td>
     <td valign="top" width="50%">
-      <strong>Orchestration & Transformation</strong><br />
+      <strong>Orchestration & Streaming</strong><br />
       <img src="https://img.shields.io/badge/Apache_Airflow-017CE1?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
       <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
@@ -56,7 +62,7 @@
     <td valign="top" width="50%">
       <strong>Data Quality & Governance</strong><br />
       <img src="https://img.shields.io/badge/Great_Expectations-FF6B35?style=flat-square&logoColor=white" alt="Great Expectations" />
-      <img src="https://img.shields.io/badge/dbt_Tests-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Tests" />
+      <img src="https://img.shields.io/badge/dbt_Tests-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt tests" />
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white" alt="Pydantic" />
     </td>
   </tr>
@@ -66,47 +72,54 @@
 
 ### ⚙️ Core Competencies
 
-- **ETL/ELT Pipeline Development** — Scalable, reliable workflows for structured and semi-structured data lakes and warehouses.
-- **Real-Time Streaming** — Event-driven ingestion with Apache Kafka; building high-throughput pipelines for transaction and telemetry data.
-- **Data Transformation & Modeling** — dbt-based star schema design, incremental models, and data quality testing layers.
-- **Workflow Orchestration** — Complex DAG authoring, dependency management, SLA monitoring, and backfill handling with Apache Airflow.
-- **Financial Data Processing** — Ledger design, safe transaction state management, and high-precision liquidity forecasting aggregates.
-- **Data Warehousing & Lakehouse** — PostgreSQL, Cassandra, and Delta Lake architectures optimized for read/write query patterns at scale.
-- **Observability & Reliability** — End-to-end pipeline monitoring with Grafana, Sentry alerting, connection pool health, and data quality gates.
-- **Containerized Deployments** — Multi-container Docker workflows for local production parity and cloud-ready deployments.
+- **ETL/ELT pipeline development** — reliable workflows for structured and semi-structured data.
+- **Real-time streaming** — event-driven ingestion and processing with Apache Kafka.
+- **Data transformation and modeling** — dimensional models, incremental transformations, and data-quality checks.
+- **Workflow orchestration** — DAG design, dependency management, retries, and backfills.
+- **Financial data processing** — reconciliation-oriented data workflows and careful transaction-state handling.
+- **Data warehousing and lakehouse** — PostgreSQL, Cassandra, and Delta Lake.
+- **Observability and reliability** — pipeline metrics, logs, alerts, and data freshness checks.
+- **Containerized development** — Docker-based local environments and cloud deployment workflows.
 
 ---
 
-###  Contribution Streak
+### 🚀 Featured Projects
+
+| Project | Focus |
+| --- | --- |
+| [Cloud ETL Pipeline](https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline) | Python ETL, data-quality validation, Kaggle ingestion, and optional AWS S3/Redshift workflows |
+| [Data Engineering](https://github.com/Victor-Kipruto-Rop/Data-Engineering) | Data engineering practice and project work |
+| [SQL for Data](https://github.com/Victor-Kipruto-Rop/SQL-for-Data) | SQL exercises and analytics-oriented queries |
+
+Explore the repositories for implementation details, setup instructions, and current project status.
+
+---
+
+### 🏅 GitHub Achievements
+
+I use open-source contributions, collaboration, and technical discussions to grow as an engineer.
+
+<p>
+  <a href="https://github.com/Victor-Kipruto-Rop?tab=achievements">View my official GitHub achievements</a>
+</p>
+
+GitHub awards these achievements automatically when account activity meets its criteria. This section links to the live profile rather than displaying badges that have not been earned.
+
+---
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor-Kipruto-Rop&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Kipruto-Rop&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
-###  Contribution Activity
+### 🤝 Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Kipruto-Rop&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-kipruto-rop" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/victorkipruto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://victorkipruto.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="28" style="margin-left: 5px;" />
-  </a>
-  <a href="mailto:kiprutovictor39@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="28" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:kiprutovictor39@gmail.com">kiprutovictor39@gmail.com</a> &nbsp;|&nbsp; 📞 <a href="tel:+254723484552">+254 723 484 552</a>
+  <a href="https://www.linkedin.com/in/victor-kipruto-rop">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/victorkipruto">Kaggle</a> ·
+  <a href="https://victorkipruto.com">Portfolio</a> ·
+  <a href="mailto:kiprutovictor39@gmail.com">Email</a>
 </p>
