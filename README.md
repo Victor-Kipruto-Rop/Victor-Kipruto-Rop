@@ -6,13 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Victor-Kipruto-Rop?tab=achievements">View GitHub achievements</a> ·
-  <a href="https://victorkipruto.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/victor-kipruto-rop">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victor-Kipruto-Rop&label=Profile%20views&color=2ECC87&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Victor-Kipruto-Rop&label=Profile%20views&color=0e75b6&style=flat-square" alt="Victor-Kipruto-Rop" />
 </p>
 
 ---
@@ -85,26 +79,28 @@
 
 ### 🚀 Featured Projects
 
-A selection of data-engineering and fintech infrastructure work, ordered by technical depth and relevance to real-world transaction systems.
-
-| Project | What it demonstrates | Technologies |
-| --- | --- | --- |
-| [TELIXO — M-Pesa Streaming & Infrastructure Platform](https://github.com/Victor-Kipruto-Rop/TELIXO) | Multi-language platform architecture for M-Pesa event ingestion, validation, streaming, service boundaries, and operational infrastructure. The repository documents delivery guarantees and financial-safety boundaries. | Python, Java, Elixir, Go, Kafka, Docker, Kubernetes, Terraform |
-| [PesaGuard — M-Pesa Daraja Reconciliation](https://github.com/Victor-Kipruto-Rop/pesaguard-maturity) | Reconciliation infrastructure concept for matching supported Daraja callback evidence against an organization's own ledger or imported records, with tenant isolation and explainable risk findings. The repository is a development scaffold, not a production payment service. | Python, FastAPI, Java, Spring Boot, Elixir, PostgreSQL, Redis |
-| [Real-Time Streaming Pipeline](https://github.com/Victor-Kipruto-Rop/streaming-pipeline) | Event-driven pipeline with M-Pesa, IoT, and clickstream producers; schema evolution; stream processing; durable sinks; and dead-letter handling. | Apache Kafka, Apache Flink, Avro, Python, PostgreSQL, Redis, Prometheus, Grafana |
-| [Cloud ETL Pipeline](https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline) | Modular ingestion and ETL workflows for multiple dataset domains, with validation, analytics-ready warehouse schemas, tests, and optional AWS S3/Redshift helpers. | Python, SQL, Pandas, AWS S3, Redshift, Airflow, Docker |
-| [M-Pesa Safaricom Data Pipeline](https://github.com/Victor-Kipruto-Rop/mpesa_safaricom-pipeline-) | Batch-oriented M-Pesa data workflow covering extraction, transformation, validation, PostgreSQL storage, orchestration, and transaction analytics. | Python, SQL, Apache Airflow, PostgreSQL, Docker |
-
-These projects represent different layers of the data platform lifecycle: ingestion, event streaming, transformation, reconciliation, storage, observability, and analytics. Project descriptions distinguish implemented capabilities from scaffolds and planned infrastructure.
+<p align="center">
+  <a href="https://github.com/Victor-Kipruto-Rop?tab=repositories">
+    👉 View all my projects on GitHub
+  </a>
+</p>
 
 ---
 
-### 🏅 GitHub Achievements
-
-I use open-source contributions, collaboration, and technical discussions to grow as an engineer.
-
-<p>
-  <a href="https://github.com/Victor-Kipruto-Rop?tab=achievements">View my official GitHub achievements</a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-rop-4920b4399" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/victorkipruto" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://portfolio-rop.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="28" width="28" style="margin-left: 5px;" />
+  </a>
+  <a href="mailto:kiprutovictor39@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+  </a>
 </p>
 
 GitHub awards these achievements automatically when account activity meets its criteria. This section links to the live profile rather than displaying badges that have not been earned.
@@ -119,11 +115,25 @@ GitHub awards these achievements automatically when account activity meets its c
 
 ---
 
-### 🤝 Connect
+### 📊 GitHub Metrics & Insights
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Victor-Kipruto-Rop&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="195px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <br />
+      <img src="https://streak-stats.demolab.com/?user=Victor-Kipruto-Rop&hide_border=true" alt="GitHub Streak" width="85%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-kipruto-rop">LinkedIn</a> ·
-  <a href="https://www.kaggle.com/victorkipruto">Kaggle</a> ·
-  <a href="https://victorkipruto.com">Portfolio</a> ·
-  <a href="mailto:kiprutovictor39@gmail.com">Email</a>
+  <br />
+  <a href="https://github.com/Victor-Kipruto-Rop">
+    <img src="https://github-profile-trophy.vercel.app/?username=Victor-Kipruto-Rop&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
 </p>
