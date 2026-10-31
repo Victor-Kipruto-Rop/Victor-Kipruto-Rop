@@ -23,10 +23,28 @@ lakehouse platforms, with a focus on East African fintech infrastructure.
 
 ## 👋 About
 
-- 🎓 Final-year **BSc Data Science** student at the Cooperative University of Kenya
 - 🏗️ I build **batch and streaming pipelines** for transaction data: ingestion, transformation, quality checks, and observability
 - 💳 Deep interest in **M-Pesa / Daraja** data: reconciliation, fraud signals, and careful transaction-state handling
-- ☁️ I like infrastructure that is **reproducible**: Docker, Terraform, Kubernetes, CI
+- 🧱 I care about systems that are **dependable, observable, and easy to hand over**, built so the next person can understand them
+
+### ✨ Interests
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      💸 Fintech &amp; mobile money<br />
+      🌍 Technology for Africa<br />
+      🧠 Machine learning &amp; AI<br />
+      🚀 Building products from scratch
+    </td>
+    <td valign="top" width="50%">
+      ✍️ Writing &amp; sharing what I learn<br />
+      🤝 Open source &amp; collaboration<br />
+      📚 Continuous learning<br />
+      🎬 Film &amp; tech culture
+    </td>
+  </tr>
+</table>
 
 ---
 
