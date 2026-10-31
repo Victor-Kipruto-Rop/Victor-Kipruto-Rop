@@ -85,13 +85,17 @@
 
 ### 🚀 Featured Projects
 
-| Project | Focus |
-| --- | --- |
-| [Cloud ETL Pipeline](https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline) | Python ETL, data-quality validation, Kaggle ingestion, and optional AWS S3/Redshift workflows |
-| [Data Engineering](https://github.com/Victor-Kipruto-Rop/Data-Engineering) | Data engineering practice and project work |
-| [SQL for Data](https://github.com/Victor-Kipruto-Rop/SQL-for-Data) | SQL exercises and analytics-oriented queries |
+A selection of data-engineering and fintech infrastructure work, ordered by technical depth and relevance to real-world transaction systems.
 
-Explore the repositories for implementation details, setup instructions, and current project status.
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [TELIXO — M-Pesa Streaming & Infrastructure Platform](https://github.com/Victor-Kipruto-Rop/TELIXO) | Multi-language platform architecture for M-Pesa event ingestion, validation, streaming, service boundaries, and operational infrastructure. The repository documents delivery guarantees and financial-safety boundaries. | Python, Java, Elixir, Go, Kafka, Docker, Kubernetes, Terraform |
+| [PesaGuard — M-Pesa Daraja Reconciliation](https://github.com/Victor-Kipruto-Rop/pesaguard-maturity) | Reconciliation infrastructure concept for matching supported Daraja callback evidence against an organization's own ledger or imported records, with tenant isolation and explainable risk findings. The repository is a development scaffold, not a production payment service. | Python, FastAPI, Java, Spring Boot, Elixir, PostgreSQL, Redis |
+| [Real-Time Streaming Pipeline](https://github.com/Victor-Kipruto-Rop/streaming-pipeline) | Event-driven pipeline with M-Pesa, IoT, and clickstream producers; schema evolution; stream processing; durable sinks; and dead-letter handling. | Apache Kafka, Apache Flink, Avro, Python, PostgreSQL, Redis, Prometheus, Grafana |
+| [Cloud ETL Pipeline](https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline) | Modular ingestion and ETL workflows for multiple dataset domains, with validation, analytics-ready warehouse schemas, tests, and optional AWS S3/Redshift helpers. | Python, SQL, Pandas, AWS S3, Redshift, Airflow, Docker |
+| [M-Pesa Safaricom Data Pipeline](https://github.com/Victor-Kipruto-Rop/mpesa_safaricom-pipeline-) | Batch-oriented M-Pesa data workflow covering extraction, transformation, validation, PostgreSQL storage, orchestration, and transaction analytics. | Python, SQL, Apache Airflow, PostgreSQL, Docker |
+
+These projects represent different layers of the data platform lifecycle: ingestion, event streaming, transformation, reconciliation, storage, observability, and analytics. Project descriptions distinguish implemented capabilities from scaffolds and planned infrastructure.
 
 ---
 
