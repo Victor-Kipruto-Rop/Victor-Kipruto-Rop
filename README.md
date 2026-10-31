@@ -97,13 +97,6 @@ A selection of data-engineering and fintech infrastructure work, ordered by tech
 
 These projects represent different layers of the data platform lifecycle: ingestion, event streaming, transformation, reconciliation, storage, observability, and analytics. Project descriptions distinguish implemented capabilities from scaffolds and planned infrastructure.
 
---- | --- |
-| [Cloud ETL Pipeline](https://github.com/Victor-Kipruto-Rop/cloud-etl-pipeline) | Python ETL, data-quality validation, Kaggle ingestion, and optional AWS S3/Redshift workflows |
-| [Data Engineering](https://github.com/Victor-Kipruto-Rop/Data-Engineering) | Data engineering practice and project work |
-| [SQL for Data](https://github.com/Victor-Kipruto-Rop/SQL-for-Data) | SQL exercises and analytics-oriented queries |
-
-Explore the repositories for implementation details, setup instructions, and current project status.
-
 ---
 
 ### 🏅 GitHub Achievements
